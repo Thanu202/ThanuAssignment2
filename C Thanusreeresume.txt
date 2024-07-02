@@ -1,10 +1,10 @@
 C Thanusree
-Master of Computer of Applications
+Master of Computer Applications
 Phone No: 9845445120
 Email-id: thanusree2002@gmail.com
 
 OBJECTIVE:
-I am seeking employment with a company where I can grow professionally and personally.
+I am seeking employment with a company where I can grow professionally and personaily.
 
 EDUCATION:
  Jyoti Nivas College Autonomous, Post Graduate Center.
@@ -22,7 +22,7 @@ Sri Chaitanya College
 PUC-State Board
 Percentage-78
 
-Vijaya Bharathi English School
+Vijaya Bharathi English Medium High School
 2018
 SSLC-State Board
 Percentage-90
@@ -31,8 +31,8 @@ SKILLS:
 c, c++, VB.Net, Java, Html, MySql, Unix.
 
 PROJECTS:
-Mini Project: Blog Application For Android
-Major Project: Fake Product Identification for windows Application.
+Mini Project: Blog Application For Android.
+Major Project: Fake Product Identification using block chain mechanism for windows Application.
 
 HOBBIES:
 listening to music, Gardening, drawing.
